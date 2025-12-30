@@ -60,4 +60,3 @@ window.onload = () => {
   }
 };
 
-loadPage("home");
